@@ -5,7 +5,7 @@ body {
 
 /* Style for all paragraphs */
 p {
-    color: rgb(13, 36, 167);
+    color: rgb(0, 38, 255);
     font-size: 16px;
     font-family: 'Times New Roman', serif;
 }
@@ -13,6 +13,5 @@ p {
 /* Style for the main heading */
 h1 {
 
-    border: 2px solid rgb(216, 156, 25); /* Adds an orange border around the heading */
+    border: 2px solid rgb(0, 255, 64); /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
-
