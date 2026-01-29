@@ -1,6 +1,6 @@
 /* Change the background of the entire visible page */
 body {
-    background-color: #f0f0f0; /* sky blue */
+    background-color: #5766e9; /* sky blue */
 }
 
 /* Style for all paragraphs */
@@ -13,5 +13,5 @@ p {
 /* Style for the main heading */
 h1 {
 
-    border: 2px solid rgb(0, 255, 64); /* Adds an orange border around the heading */
+    border: 2px solid rgb(27, 2, 255); /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
